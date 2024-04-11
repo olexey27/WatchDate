@@ -74,3 +74,4 @@
 /Users/olexey27/Desktop/Syntax/WatchDate/API/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 /Users/olexey27/Desktop/Syntax/WatchDate/API/bin/Debug/net7.0/CloudinaryDotNet.dll
 /Users/olexey27/Desktop/Syntax/WatchDate/API/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/olexey27/Desktop/Syntax/WatchDate/API/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
