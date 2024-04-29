@@ -4,7 +4,7 @@ using API.Helpers;
 
 namespace API.Interfaces
 {
-    public interface ILikeRepository
+    public interface ILikesRepository
     {
         Task<UserLike> GetUserLike(int sourceUserId, int targetUserId);
         Task<AppUser> GetUserWithLikes(int userId);
